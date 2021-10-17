@@ -1,0 +1,17 @@
+//Script file, this can be edited to suite the needs of the business, please use the variables below when writing your script
+//each line of your script is a step in the call handling process
+//
+// **** Script Variables ****
+//
+// {{staff-name}} - Displays the name of the staff member.
+// {{caller-name}} - Displays the name of the caller.
+// {{products}} - Displays all the products / departments, products = departments in this context.
+// {{product-selected}} - Displays the selected product that the call is having issues with.
+// {{assigned-staff-member}} - Displays the randomly assigned staff member for the caller to be transfered too.
+//
+// **** START SCRIPT ****
+Welcome to EasyTroubleshooter, please enter your fullname and follow the provided script when transfering and trouble shooting support calls
+READY FOR CALL: Thankyou for calling my name is {{staff-name}} before we get started can i ask what your name is?
+CURRENT CALL: Thanks {{caller-name}} for calling our support line before i transfer you lets get more information about the issue your having. What is product are you having issues with? {{products}}
+CURRENT CALL: Great! so for your {{product-selected}} issue before i transfer you to that departments for assistance can you please provide a brief description of your issue?
+CURRENT CALL: Thanks for that information {{caller-name}}, please hold while i now transfer you to our {{product-selected}} department. PRESS 1 TO SAVE CALL LOG AND TRANSFER CALLER TO {{assigned-staff-member}}

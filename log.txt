@@ -1,0 +1,28 @@
+____________________________________
+TRANSFER CALL LOG: 2021/09/25 21:13:51
+Staff Member: Jack
+Caller: Mineubob
+Product/Department: SpaceBook Laptop line
+Issue: Broken Battery Pack
+Transfered To:  Bethann Deforge Extension: 708
+____________________________________
+TRANSFER CALL LOG: 2021/09/25 21:15:30
+Staff Member: Jack
+Caller: James Dean
+Product/Department: Billing and Payments
+Issue: Caller cannot submit payment on our billing system
+Transfered To:  Sanford Slama Extension: 709
+____________________________________
+TRANSFER CALL LOG: 2021/09/25 21:21:37
+Staff Member: Jack
+Caller: Bob doll
+Product/Department: SpaceBook Laptop line
+Issue: My new laptop will not turn on
+Transfered To:  Bethann Deforge  Extension: 708
+____________________________________
+TRANSFER CALL LOG: 2021/09/25 21:27:30
+Staff Member: Jack
+Caller: Donald Trump
+Product/Department: Billing and Payments
+Issue: I cant pay for dis
+Transfered To:  Rosia Cunniff  Extension: 707
